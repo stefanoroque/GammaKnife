@@ -7,4 +7,4 @@ concentrates the radiation over a small volume. Uses a hemisphere shaped helmet 
 holes drilled in it to direct the radiation to the tumor as pencil beams. All pencil beams
 intersect at the same point.
 
-There are 19 MATLAB files. You can run all of these by simply calling the “main” script.
+There are 19 MATLAB files. You can run all of these by simply calling the “main” script in MATLAB while having all files in the same directory.
